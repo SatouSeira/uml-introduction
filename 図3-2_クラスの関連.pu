@@ -1,0 +1,14 @@
+@startuml
+left to right direction
+高度情報工学科 - 学生
+会社 ---> 社員 : A >
+会員リスト o-- 会員
+note right of 会員リスト
+  部分クラスがなくて成り立ちます。
+end note
+パソコン *-- ハードディスク
+note right of パソコン
+  ハードディスクがないと成り立ちません。
+end note
+なにか .. なにか2
+@enduml
