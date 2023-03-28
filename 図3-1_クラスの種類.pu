@@ -1,0 +1,28 @@
+@startuml
+' class A<<ステレオタイプ>>{}
+' class B{
+    ' - 属性1:int
+    ' - 属性2:String
+' }
+' class C{
+    ' ---
+    ' + 操作1():void
+    ' + 操作2():String
+' }
+' class D{
+    ' 
+' }
+class Employee{
+    -id:int=0
+    -name:String
+    #depertment:String
+    /継続年数:int
+    ---
+    +setid(id:int):void
+    +getid():int
+    +setName(name:String):void
+    +getName():String
+    +setDept(dept:String):void
+    +getDept():String
+}
+@enduml
