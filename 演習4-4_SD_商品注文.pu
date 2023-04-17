@@ -1,0 +1,20 @@
+@startuml
+hide footbox
+actor ":受注者" as 受注者
+participant "注文登録画面" as 注文登録画面 <<boundary>>
+participant "商品" as 商品 <<entity>>
+participant "注文" as 注文 <<entity>>
+activate 受注者
+受注者 -> 注文登録画面 : 
+activate 注文登録画面
+activate 商品
+注文登録画面 -> 商品 : 
+商品 --> 注文登録画面 :
+deactivate 商品
+注文登録画面 -> 注文登録画面 : 
+activate 注文登録画面
+deactivate 注文登録画面
+deactivate 注文登録画面
+受注者 -> 注文登録画面
+activate 注文登録画面
+@enduml
