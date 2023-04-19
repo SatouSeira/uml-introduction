@@ -1,0 +1,60 @@
+<svg host="65bd71144e" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" width="542px" height="242px" viewBox="-0.5 -0.5 542 242" content="&lt;mxfile&gt;&lt;diagram id=&quot;EuVSoGolGIbV836NIyk4&quot; name=&quot;Page-1&quot;&gt;7Vhdb9sgFP01vE62qfPxmKTZ9rBJlfqw7pHaNEbDJsKksffrBwEcMHWTeW1aTU2linu4YDjnXIgD4KpsvnC0Lb6zHFOQRHkD4DVIksl0Jv8roNXAVRRrYMNJriEHuCW/sQEjg+5IjmsvUTBGBdn6YMaqCmfCwxDnbO+nPTDqP3WLNjgAbjNEQ/QHyUWh0VkaHfGvmGwK++Q4Mj0lsskGqAuUs70DwTWAK86Y0K2yWWGquLO86HGfB3q7hXFcibMGJHrEI6I7szmzMNHa3XK2q3KsBkQALvcFEfh2izLVu5fySqwQJZVRLJsPhNIVo4wfxsKHVP1JvBac/cJOz+TwUSNYJRxcfyRuFoa5wM3g7uKOM+k1zEoseCtTGusrPaL1w/1Rs9RihaNXl4iMTzbdzEcqZcOwOcDsVcBsncsYrCGYQbCYm8ZyZZHYIhCsU7CMwWx5QGIwTw+NBMxhoI500FY1M8Tz0/LkhMuCIKxSvbgWzyg2pMuwkhdRrKslV7HJSwiWBoItMiE3OcT4rqQ6AS7Vnok8H76he0xvWE0MxfdMCFY6CQtKNqpDsJ4wbCcoqSSt9sSK3ps0c1+aGIbaJK8lzfRCp9SbENtda88w+3qun5+mFlf5Qt2aMqpYhX0q5SZ5e2doPwQ/VfApteF143Zetye8fYpqnAd3c49ouXa245nNMmUtEN9g4fopFMS9GJ7g22IcUyTIo7+Mp0QwT7hhRC6w0xtGvt6wf93o5ZtR7uXdnyj1J+pK1E6k9xxMdPBEt+2zbGJ3+Z9+T3jLCrRMjq/Ahog7p+3Un4yO5acCW33vvmqnYdUOifhRtYPWerHDPfZtkpzyydOenD5vykuZq3tnfDfmSmY9T8Cx5oK9k2x2nrmkBVDrpG1VQj284LT/nIn3nikbesaxzoXwr5ybUVTXJPvXK+ZcO72VTeI+62PPoLj/Zb4/0cudQTB8D/5QMqzT0bfJBZUMX5A/lEyu+gLEI5VM0xMTjVZShsdfFHX68WdZuP4D&lt;/diagram&gt;&lt;/mxfile&gt;">
+    <defs/>
+    <g>
+        <rect x="0" y="0" width="540" height="240" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <path d="M 30 0 L 100 0 L 100 60 L 0 60 L 0 30 Z" fill="#f5f5f5" stroke="#666666" stroke-miterlimit="10" transform="rotate(180,50,30)" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe center; justify-content: unsafe center; width: 98px; height: 1px; padding-top: 30px; margin-left: 1px;">
+                        <div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: all; white-space: normal; overflow-wrap: normal;">
+                                sd ラーメン屋さん
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="50" y="34" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    sd ラーメン屋さん
+                </text>
+            </switch>
+        </g>
+        <ellipse cx="60" cy="97.5" rx="5" ry="7.499999999999999" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <path d="M 60 105 L 60 130 M 60 110 L 50 110 M 60 110 L 70 110 M 60 130 L 50 150 M 60 130 L 70 150" fill="none" stroke="#666666" stroke-miterlimit="10" pointer-events="all"/>
+        <g transform="translate(-0.5 -0.5)">
+            <switch>
+                <foreignObject pointer-events="none" width="100%" height="100%" requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility" style="overflow: visible; text-align: left;">
+                    <div xmlns="http://www.w3.org/1999/xhtml" style="display: flex; align-items: unsafe flex-start; justify-content: unsafe center; width: 1px; height: 1px; padding-top: 157px; margin-left: 60px;">
+                        <div data-drawio-colors="color: #333333; " style="box-sizing: border-box; font-size: 0px; text-align: center;">
+                            <div style="display: inline-block; font-size: 12px; font-family: Helvetica; color: rgb(51, 51, 51); line-height: 1.2; pointer-events: all; white-space: nowrap;">
+                                Actor
+                            </div>
+                        </div>
+                    </div>
+                </foreignObject>
+                <text x="60" y="169" fill="#333333" font-family="Helvetica" font-size="12px" text-anchor="middle">
+                    Act...
+                </text>
+            </switch>
+        </g>
+        <rect x="170" y="90" width="100" height="60" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <path d="M 70 120 L 170 120" fill="none" stroke="#666666" stroke-miterlimit="10" pointer-events="stroke"/>
+        <rect x="370" y="90" width="100" height="60" fill="#f5f5f5" stroke="#666666" pointer-events="all"/>
+        <path d="M 270 120 L 370 120" fill="none" stroke="#666666" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 470 135 L 482 126 Q 490 120 482 114 L 470 105" fill="none" stroke="#666666" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 90 100 L 143.63 100" fill="none" stroke="#666666" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 148.88 100 L 141.88 103.5 L 143.63 100 L 141.88 96.5 Z" fill="#666666" stroke="#666666" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 290 100 L 343.63 100" fill="none" stroke="#666666" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 348.88 100 L 341.88 103.5 L 343.63 100 L 341.88 96.5 Z" fill="#666666" stroke="#666666" stroke-miterlimit="10" pointer-events="all"/>
+        <path d="M 450 70 L 503.63 70" fill="none" stroke="#666666" stroke-miterlimit="10" pointer-events="stroke"/>
+        <path d="M 508.88 70 L 501.88 73.5 L 503.63 70 L 501.88 66.5 Z" fill="#666666" stroke="#666666" stroke-miterlimit="10" pointer-events="all"/>
+    </g>
+    <switch>
+        <g requiredFeatures="http://www.w3.org/TR/SVG11/feature#Extensibility"/>
+        <a transform="translate(0,-5)" xlink:href="https://www.diagrams.net/doc/faq/svg-export-text-problems" target="_blank">
+            <text text-anchor="middle" font-size="10px" x="50%" y="100%">
+                Text is not SVG - cannot display
+            </text>
+        </a>
+    </switch>
+</svg>
