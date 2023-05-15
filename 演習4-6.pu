@@ -1,0 +1,3 @@
+@startuml
+actor ":ユーザ" AS ユーザ
+participant ":ブラウザ" AS ブラウザ
