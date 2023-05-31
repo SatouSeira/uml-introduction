@@ -1,0 +1,13 @@
+@startuml
+object "車1:車" AS 車1
+object "タイヤ1:タイヤ" AS タイヤ1
+object "タイヤ2:タイヤ" AS タイヤ2
+object "タイヤ3:タイヤ" AS タイヤ3
+object "タイヤ4:タイヤ" AS タイヤ4
+
+車1 -- タイヤ1
+車1 -- タイヤ2
+車1 -- タイヤ3
+車1 -- タイヤ4
+
+@enduml
